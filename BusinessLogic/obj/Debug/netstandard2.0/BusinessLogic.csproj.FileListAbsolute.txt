@@ -1,0 +1,8 @@
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb

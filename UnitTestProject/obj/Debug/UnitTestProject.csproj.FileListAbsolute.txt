@@ -1,0 +1,15 @@
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\BusinessLogic.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\BusinessLogic.pdb
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\CSharp Source Code\MyCSharpPrograms\CSharpPrograms\UnitTestProject\obj\Debug\UnitTestProject.pdb
